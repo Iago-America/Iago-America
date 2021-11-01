@@ -8,6 +8,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iago-America&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+### Linguagens e Ferramentas:
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Iago-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Iago-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
