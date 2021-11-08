@@ -1,6 +1,7 @@
 ### Olá! Eu sou Iago América 👋
 
-- 🌱 Estudando Kotlin
+- 🌱 Estou estudando Kotlin com foco em desenvolvimento android, em paralelo com estudos de SQL.
+- 📫 Contate me: iago6489@gmail.com
 
 <div align="center">
   <a href="https://github.com/Iago-America">
