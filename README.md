@@ -1,6 +1,6 @@
 ### Olá! Eu sou Iago América 👋
 
-- 🌱 Estou estudando Kotlin com foco em desenvolvimento android, em paralelo com estudos de SQL.
+- 🌱 Sou um desenvolvedor com experiência em .NET, Java e entre outras tecnologias. Minha curiosidade é meu motor, impulsionando-me constantemente a aprender e explorar novas tecnologias. Estou sempre pronto para absorver conhecimento e enfrentar desafios. Estou ansioso para expandir minha expertise e contribuir para projetos empolgantes. Minha determinação e desejo de aprender me tornam um ativo valioso para qualquer equipe de desenvolvimento.
 - 📫 Contate me: iago6489@gmail.com
 
 <div align="center">
