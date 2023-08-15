@@ -9,8 +9,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iago-America&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-### Linguagens e Ferramentas:
-  <div>
+<hr>
+<div align="center">
     
   <img  align="center" alt="Iago-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />    
   <img align="center" alt="Iago-c#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
